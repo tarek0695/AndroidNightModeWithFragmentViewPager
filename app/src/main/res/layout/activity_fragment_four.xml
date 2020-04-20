@@ -77,8 +77,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Android"
-                android:textColor="#fff"
-                android:background="?attr/buttoncolor"/>
+                android:textColor="?attr/textcolor"
+                android:background="?attr/colorAccent"/>
 
         </LinearLayout>
 

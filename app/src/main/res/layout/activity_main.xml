@@ -34,7 +34,8 @@
             android:layout_height="wrap_content"
             app:tabTextColor="?attr/textcolor"
             app:tabIndicatorColor="?attr/tintcolor"
-            >
+            app:tabIconTint="@color/color_state"
+            app:tabSelectedTextColor="?attr/buttoncolor">
 
             <com.google.android.material.tabs.TabItem
 

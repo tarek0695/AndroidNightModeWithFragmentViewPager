@@ -30,8 +30,8 @@
         <item name="backgroundcolor">#303030</item>
         <item name="cardbackground">#424242</item>
         <item name="textcolor">#ffffff</item>
-        <item name="tintcolor">#ffffff</item>
-        <item name="buttoncolor">#2196F3</item>
+        <item name="tintcolor">#C0C0C0</item>
+        <item name="buttoncolor">#ffffff</item>
         <item name="android:windowAnimationStyle">@style/windowAnimationTransition</item>
 
         //scroll bar
@@ -46,6 +46,7 @@
         <item name="android:windowEnterAnimation"> @android:anim/fade_in</item>
         <item name="android:windowExitAnimation"> @android:anim/fade_out</item>
     </style>
+
 
 
 </resources>
