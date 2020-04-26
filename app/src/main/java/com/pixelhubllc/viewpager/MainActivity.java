@@ -44,5 +44,7 @@ public class MainActivity extends AppCompatActivity {
         tabLayout.getTabAt(2).setIcon(R.drawable.ic_android_black_24dp);
         tabLayout.getTabAt(3).setIcon(R.drawable.ic_android_black_24dp);
 
+        
+
     }
 }
